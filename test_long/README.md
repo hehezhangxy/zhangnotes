@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# This is an incredibly long caption for a long menu
+#  long menu example
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
